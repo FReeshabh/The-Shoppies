@@ -66,7 +66,7 @@ function App() {
     </form>
 
     {/* show number of results found */}
-    <h3>{(movies && movies.length > 0) ? movies.length: "1"} Result(s) for "<b>{query}</b>"</h3>
+    <h3>{(movies && movies.length > 0) ? movies.length: "0"} Result(s) for "<b>{query}</b>"</h3>
     <div className="MOV">
       {/* Probably could've made a component for this */}
       <div className="movies-list">
