@@ -1,0 +1,67 @@
+.App{
+  background-color: whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+  height: max-content;
+}
+
+.search-form{
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1%;
+}
+
+.search-bar{
+  width:50%;
+  border: 1%;
+  padding: 10px;
+}
+
+.search-button{
+  background: #65b9b9;
+  border: none;
+  padding: 10px 20px;
+  color:white;
+}
+
+.MOV{
+  display: flex;
+  flex-direction: row;
+}
+
+.nominations-list{
+  position: relative;
+  right: 0;
+  justify-content: center;
+  background-color: #95BF47 ;
+  width: 50%;
+  z-index: 1;
+  text-align: center;
+}
+
+.movies-list{
+  position: relative;
+  left: 0;
+  justify-content: center;
+  background-color: #d1d8d8; 
+  width: 50%;
+  z-index: 1;
+  text-align: center;
+}
+
+.Movie {
+  display: flex;
+  flex-direction: row;
+}
+
+.Button {
+  border: thin;
+}
+
+ul {
+  list-style: none outside;
+}
