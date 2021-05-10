@@ -1,4 +1,8 @@
-# The Shoppies
+# [The Shoppies](https://rt-the-shoppies.netlify.app/)
+
+View live demo here https://rt-the-shoppies.netlify.app/
+
+
 UX Developer Intern & Web Developer Intern Challenge - Fall 2021
 
 ## The Shoppies: Movie awards for entrepreneurs
